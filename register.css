@@ -1,0 +1,35 @@
+
+h3 {
+	margin-left: 130px;
+}
+
+form {
+    border: 1px solid #ccc;
+    width: 30%;
+    height: 470px;
+    margin: 53px 442px;
+    padding: 20px 22px;
+}
+
+input[type=text], [type=email], input[type=password]{
+    border: 1px solid #ccc;
+    margin: 8px 0;
+    display: block;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    width: 97%;
+}
+
+button {
+    background-color: #1a73e8;
+    color: #fff;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    display: block;
+	  margin-left: 289px;
+    margin-top: 20px;
+
+
+}
